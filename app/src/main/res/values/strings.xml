@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">TestBed</string>
-    <string name="restart">Restart</string>
-    <string name="enter_value">Enter a value</string>
+    <string name="restart">Перезапуск</string>
+    <string name="enter_value">Введи значение</string>
     <string name="program_stopped">Program stopped</string>
     <string name="program_finished">Program finished</string>
     <string name="close">Close TestBed</string>
